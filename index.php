@@ -1,5 +1,4 @@
-<html>
-<body>
+
 <?php
 
 $LINK = "https://www.youtube.com/watch?v=pglE79xAGlA";
@@ -11,6 +10,3 @@ echo sprintf('<img src="%s">',$LINK);
 
 
 ?>
-
-</body>
-</html>
