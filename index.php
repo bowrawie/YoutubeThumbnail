@@ -6,7 +6,7 @@ $LINK = str_replace("https://www.youtube.com/watch?v=","https://i.ytimg.com/vi/"
 
 
 
-echo sprintf('<img src="%s">',$LINK);
+echo sprintf('<img src=""%s"">',$LINK);
 
 
 ?>
